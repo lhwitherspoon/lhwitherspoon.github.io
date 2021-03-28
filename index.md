@@ -1,22 +1,27 @@
 # Juggling tech consulting and science advocacy in Seattle, WA.
-Interests range from public health (especially pro-vaccine advocacy) through to templating languages. I work on a variety of platforms (Linux, Windows, and Mac). 
+Technical interests: a variety, but include web development, UX, and accessibility together. Health interests: Pro-vaccine advocacy, the impact of socioeconomic inequity and injustice on health, and public health in general. 
 
-## Current skillset
+## Skillsets
 ---
 ### Technical
 - HTML5, CSS3, Bootstrap 4
 - JavaScript
-- Python
+- Python 
+- ASP.NET Framework
 
 ### Other
 - Project management from running a healthcare practice
 - Supervisory from managing and supervising students in a clinic. 
+- HIPAA compliance
 
 ## Tech Experience
 ---
-Consulting/freelance: 
-ASP.NET Framework: Microsoft Web Forms with Visual Basic.
-WordPress: Installation & setup especially for membership sites.
+### ASP.NET Framework: 
+- Microsoft Web Forms with Visual Basic
+- Local set up of classic ASP and ASP.NET Framework sites on IIS Express
+
+### WordPress: 
+Installation & setup especially for membership sites.
 - WP Courseware, LearnDash, MemberPress
 - Elementor, GeneratePress
 - Avada
