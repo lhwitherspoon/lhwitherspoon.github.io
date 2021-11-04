@@ -8,6 +8,7 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import "./mystyles.scss"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -33,7 +34,7 @@ const Bio = () => {
   return (
     <div className="">
       <StaticImage
-        className=""
+        className="rounded-2xl my-5"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
         src="../images/profile-pic.png"
@@ -43,7 +44,7 @@ const Bio = () => {
         alt="Profile picture"
       />
       {author?.name && (
-        <p>
+        <p className="border-2 border-blue-600 p-10">
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
