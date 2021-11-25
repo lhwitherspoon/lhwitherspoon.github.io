@@ -27,7 +27,7 @@ Installation & setup especially for membership sites.
 - Avada
 - Divi, Thrive
 
-## Other experience
+## Other Experience
 ---
 Licensed healthcare provider, focused on providing evidence-based integrative care aligned with standards of care for Medicaid patients and underserved populations. Care coordination with insurance, healthcare institutions, and inidividuals. Evaluation and application of clinical evidence, problem solving. 
 
