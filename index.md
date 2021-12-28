@@ -7,6 +7,7 @@ My focus is on helping small-to-medium organizations carry out their mission by 
 - Initial evaluation of content needs and site structure;
 - Google Analytics, Google Tag Manager, Google Search Console: initial setup, report setup based on your organization's data needs, report interpretation.
 Technical interests: a variety, but include web development, UX, and accessibility together. Health interests: Pro-vaccine advocacy, the impact of socioeconomic inequity and injustice on health, and public health in general. 
+
 ---
 ## Skillsets
 ### Technical
