@@ -1,4 +1,5 @@
-# Tech consultant and science advocate helping you get your message out.
+# Tech consultant and science advocate in Seattle, WA, USA
+## Helping your organization get your message out.
 My focus is on helping small-to-medium organizations carry out their mission by helping them utilize technology in a way that works for them. With a background in healthcare and website development, I provide a variety of services:
 - Initial assessment of organizational needs and resources;
 - Evaluation of how (and whether) current technology can meet those needs;
