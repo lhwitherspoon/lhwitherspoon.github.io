@@ -8,7 +8,6 @@ My focus is on helping small-to-medium organizations carry out their mission by 
 - Google Analytics, Google Tag Manager, Google Search Console: initial setup, report setup based on your organization's data needs, report interpretation.
 Technical interests: a variety, but include web development, UX, and accessibility together. Health interests: Pro-vaccine advocacy, the impact of socioeconomic inequity and injustice on health, and public health in general. 
 
----
 ## Skillsets
 ### Technical
 - HTML5, CSS3, Bootstrap 4
@@ -25,6 +24,7 @@ Technical interests: a variety, but include web development, UX, and accessibili
 ### Other
 - Project and task coordination and management 
 - HIPAA compliance experience for small organizations.
+
 ---
 ## Tech Experience
 ### ASP.NET Framework: 
@@ -46,6 +46,7 @@ Installation & setup especially for membership sites.
 ### Science Communication: 
 - Public pro-vaccine communication and advocacy.
 - My written articles advocating for vaccination can be found at (ndsforvaccines.com)[https://ndsforvaccines.com]
+
 ---
 ## Other Experience
 Licensed healthcare provider (licensed naturopathic doctor in Washington state), focused on providing evidence-based integrative care aligned with conventional standards of care for Medicaid patients and underserved populations including LGBTQ+ individuals. Care coordination with insurance, healthcare institutions, and inidividuals. Evaluation and application of clinical evidence, problem solving. 
