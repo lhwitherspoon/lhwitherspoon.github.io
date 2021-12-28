@@ -45,7 +45,7 @@ Installation & setup especially for membership sites.
 
 ### Science Communication: 
 - Public pro-vaccine communication and advocacy.
-- My written articles advocating for vaccination can be found at (ndsforvaccines.com)[https://ndsforvaccines.com]
+- My written articles advocating for vaccination can be found at [ndsforvaccines.com](https://ndsforvaccines.com)
 
 ---
 ## Other Experience
