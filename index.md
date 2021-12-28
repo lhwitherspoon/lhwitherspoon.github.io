@@ -6,7 +6,10 @@ My focus is on helping small-to-medium organizations carry out their mission by 
 - Website services including website maintenance, hosted server maintenance, troubleshooting, making those calls to your hosting company to find out what is going on and get it resolved. 
 - Initial evaluation of content needs and site structure;
 - Google Analytics, Google Tag Manager, Google Search Console: initial setup, report setup based on your organization's data needs, report interpretation.
-Technical interests: a variety, but include web development, UX, and accessibility together. Health interests: Pro-vaccine advocacy, the impact of socioeconomic inequity and injustice on health, and public health in general. 
+
+
+Technical interests: web development, UX, and accessibility. 
+Science communication interests: Pro-vaccine advocacy, critical, evidence-based evaluation of complementary and integrative (CAM) therapies, and the impact of socioeconomic inequity and injustice on health. 
 
 ## Skillsets
 ### Technical
@@ -33,7 +36,7 @@ Technical interests: a variety, but include web development, UX, and accessibili
 - Led team to migrate a multi-thousand page legacy site to a new server, upgrading to a newer version of ASP.NET Framework. \
 
 ### WordPress: 
-Installation & setup especially for membership sites.
+Installation, setup and customization with a focus on membership sites.
 - WP Courseware, LearnDash, MemberPress
 - Elementor, GeneratePress
 - Avada
